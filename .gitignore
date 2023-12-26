@@ -1,0 +1,12 @@
+.DS_Store
+/.quarto/
+/_site/
+/.luarc.json
+elsarticle-harv.bst
+elsarticle.cls
+template.spl
+template.tex
+template_files/
+.Rproj.user
+.Rhistory
+.Rproj
